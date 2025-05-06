@@ -3,8 +3,8 @@ import React, { createContext, useContext, useState } from "react";
 const CurrencyContext = createContext();
 
 export const CurrencyProvider = ({ children }) => {
-  const [currency, setCurrency] = useState("USD"); // Default currency is USD
-  const [exchangeRates, setExchangeRates] = useState({}); // Stores exchange rates
+  const [currency, setCurrency] = useState("USD");
+  const [exchangeRates, setExchangeRates] = useState({});
 
   const updateExchangeRates = (rates) => {
     setExchangeRates(rates);
