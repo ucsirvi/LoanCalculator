@@ -2,6 +2,7 @@ Project Demo
 
 ##Home Page
 <img width="1440" alt="1" src="https://github.com/user-attachments/assets/3735bca0-3980-4712-927e-994240953612" />
+
 <br><br>
 --------------------------------------------------------------------------------------------------------------------
 ##Exchange Rates Page
