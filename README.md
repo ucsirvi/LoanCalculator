@@ -1,6 +1,9 @@
 Project Demo
 
-Home Page
+Home Page-Light Mode
+<img width="1438" alt="Screenshot 2025-05-07 at 11 20 09" src="https://github.com/user-attachments/assets/bc9c1e0f-40f6-4017-9d33-937c64719cf7" />
+
+Home Page-Dark Mode
 <img width="1440" alt="1" src="https://github.com/user-attachments/assets/3735bca0-3980-4712-927e-994240953612" />
 
 
